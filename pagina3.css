@@ -1,0 +1,17 @@
+body {
+    background: linear-gradient(to bottom, #FF9933 0%, #FFFFFF 33.3%, #138808 66.6%, #FFFFFF 100%);
+  }
+  p.texto{
+    text-align: justify;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+h1.titulo{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a{
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+}
